@@ -19,3 +19,4 @@ for i in range(len(cogs)):
 
 keep_alive()
 client.run("NzcxMTAzMzM2MjA3MjIwNzU2.X5nP8Q.b_Z2WK8Z7x5ev39MGbgJK5EGvGg")
+##banana
